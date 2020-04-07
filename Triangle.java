@@ -1,3 +1,8 @@
+/* Program Name:    Triangle.java
+   By:              CSCI 405 Class
+   Date-Written:    4/7/2020
+                                 */
+
 
 public class Triangle {
 
