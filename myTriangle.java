@@ -30,7 +30,7 @@ public class myTriangle {
 		try 
 		{
 			int value = Integer.parseInt(buffRead.readLine());
-			if (value > 0)
+			if (value1 > 0)
 			{
 				thisTriangle.setSideOne(value);
 			}
