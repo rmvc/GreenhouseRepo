@@ -1,5 +1,4 @@
 # GreenhouseRepo
-This is a classroom example..
+This is a classroom example.
 
-We are learning github today!!!! :)
-
+We are learning github today!!!! ☺
