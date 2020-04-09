@@ -8,6 +8,10 @@ public class Triangle {
 
 	int sideOne = 0;
 	int sideTwo = 0;
+	
+	public float getAreaBob(    )  {
+		
+	}
 
 	
 	public void setSideOne(int sOne)
