@@ -1,0 +1,22 @@
+"""
+getAreaCaleb()
+	Get variable values
+	Calculate S
+	S = a+b+c / 2
+
+	Calculate inside the square value
+	Calculate the squared value
+"""
+import math
+getAreaCaleb(sideone, sidetwo, sidethree):
+	# Calculates S
+	s = (sideone+sidetwo+sidethree) / 2
+
+	# Calculates inner square root value
+	AreaStep1 = s(s-sideone)*(s-sidetwo)*(s-sidethree)
+	
+	# Calculates Area
+	Area = math.sqrt(AreaStep1)
+
+	# Prints Area to Console
+	print(Area)
