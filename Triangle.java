@@ -12,6 +12,10 @@ public class Triangle {
 	public float getAreaBob(    )  {
 		
 	}
+	public double getAreaVivian() {
+		double s = ((double) (sideOne + sideTwo + sideThree)) / 2;
+		return Math.sqrt(s * (s - sideOne) * (s - sideTwo) * (s - sideThree));
+	}
 
 	
 	public void setSideOne(int sOne)
