@@ -8,8 +8,8 @@ public class Triangle {
 
 	int sideOne = 0;
 	int sideTwo = 0;
-	int s = 0;
-	int area = 0;
+  int s = 0;
+  int area = 0;
 
 	
 	public void setSideOne(int sOne)
