@@ -1,0 +1,11 @@
+Function getSemiPeri()
+  get side a, b, c
+  S = a + b+ c
+  S = S/2
+  Return S
+
+Function getAreaEric()
+  S = getSemiPeri()
+  S = s(...
+  S = S.sqrt()
+  Return S
